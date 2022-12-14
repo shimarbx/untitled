@@ -1,8 +1,9 @@
 {
-    "name": "Untitled",
+    "name": "godzilla",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "animation": "*"
     },
     "files": [
         "main.blocks",
